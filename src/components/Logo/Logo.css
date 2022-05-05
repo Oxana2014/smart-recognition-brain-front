@@ -1,0 +1,11 @@
+.logo {
+    background-color: azure;
+    height: 150px;
+     width: 150px;
+     /* background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%); */
+     background: linear-gradient(89deg, #fefcfe 0%, #059150 100%);
+}
+img { height: 80px;
+    width: 80px;
+    padding: 30px;
+}
